@@ -1,1 +1,1 @@
-# Dailly_coding_practice
+# Daily_coding_practice
